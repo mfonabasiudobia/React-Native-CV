@@ -1,0 +1,134 @@
+{
+  "general": {
+    "name": "MfonAbasi Udobia",
+    "headline": "React.js | React Native | Laravel | Flutter",
+    "about": [
+      "Hey there! 👋",
+      "🚀 with over 7 years of experience with modern technologies like React Native TypeScript, Firebase, Apollo GraphQL, SupaBase, AWS Amplify, etc, I specialize in creating high-performance apps that deliver exceptional user experiences. ",
+      "My strengths are in problem-solving, optimizing functionality, and streamlining processes, enabling me to develop scalable, efficient applications that are tailored to meet client needs."
+    ],
+    "socials": {
+      "email": "mfonabasiisaac@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mfonabasi-udobia-a84128217",
+      "github": "https://github.com/mfonabasiudobia"
+    }
+  },
+  "experiences": [
+    {
+      "title": "React Native Developer",
+      "company": "RocketpayNG",
+      "href": "",
+      "startDate": "10/2023",
+      "endDate": "7/2025",
+      "description": "Manage and Maintain the Mobile App",
+      "logo": "/logos/rocketpay.jpeg",
+      "skills": ["React Native", "Laravel", "React.js", "Next.js"]
+    },
+    {
+      "title": "React Native Developer",
+      "company": "SAAIG Technologies, LLC",
+      "href": "",
+      "startDate": "01/2023",
+      "endDate": "09/2023",
+      "description": "Manage and Maintain the Mobile App",
+      "logo": "/logos/saaig.png",
+      "skills": ["React Native", "Open AI", "Laravel", "Next.js"]
+    },
+    {
+      "title": "Mobile App Developer",
+      "company": "Asap Softwares",
+      "href": "",
+      "startDate": "01/2021",
+      "endDate": "12/2024",
+      "description": "Develop and craft application as per client requirements",
+      "logo": "/logos/asap.png",
+      "skills": ["React Native", "Laravel", "React.js", "Next.js"]
+    }
+  ],
+  "education": [
+    {
+      "subject": "University of Uyo",
+      "degree": "Bachelor's degree",
+      "university": "University of Uyo, Nigeria",
+      "href": "",
+      "startDate": "2017",
+      "endDate": "2021",
+      "description": "Bachelor's degree, Computer Science."
+    },
+    {
+      "subject": "Typescript for professionals",
+      "degree": "Typescript for professionals",
+      "university": "Udemy",
+      "href": "",
+      "startDate": "2022",
+      "endDate": "2022",
+      "description": ""
+    }
+  ],
+  "volunteering": [
+    {
+      "position": "Position Name",
+      "event": "Event Name",
+      "organisation": "Organisation Name",
+      "href": "",
+      "startDate": "2022",
+      "endDate": "NOW",
+      "description": "Short description of your role at the event."
+    },
+    {
+      "position": "Position Name",
+      "event": "Event Name",
+      "organisation": "Organisation Name",
+      "href": "",
+      "startDate": "2022",
+      "endDate": "NOW",
+      "description": "Short description of your role at the event."
+    },
+    {
+      "position": "Position Name",
+      "event": "Event Name",
+      "organisation": "Organisation Name",
+      "href": "",
+      "startDate": "2022",
+      "endDate": "NOW",
+      "description": "Short description of your role at the event."
+    }
+  ],
+  "projects": [
+    {
+      "name": "RocketPay",
+      "framework": "React Native",
+      "description": "Easy Bill Payment with ROCKETPAY",
+      "href": "https://play.google.com/store/apps/details?id=com.rocketpay",
+      "stars": "0"
+    },
+    {
+      "name": "Haird - Beauty Booking Service",
+      "framework": "React Native",
+      "description": "Haird is the seamless fusion of artistry and innovation, designed to connect users with skilled stylists for personalised beauty experiences.",
+      "href": "https://play.google.com/store/apps/details?id=com.ng.hairdapp",
+      "stars": "0"
+    },
+    {
+      "name": "eConnect Cards App",
+      "framework": "React Native",
+      "description": "The eConnect Cards App is a versatile digital information card designed for professionals, athletes, and businesses to seamlessly share their contact details and build lasting connections.",
+      "href": "https://play.google.com/store/apps/details?id=com.econnectcards",
+      "stars": "0"
+    },
+    {
+      "name": "Famous - Marketing Made Easy",
+      "framework": "React Native",
+      "description": "Transform your social media game with our suite of engagement options. Get ready to see your followers soar and your posts go viral!",
+      "href": "https://play.google.com/store/apps/details?id=com.blordgroup.famous",
+      "stars": "0"
+    },
+    {
+      "name": "Sellam",
+      "framework": "React Native",
+      "description": "Sellam is the ultimate African marketplace app, built for community, culture, and convenience",
+      "href": "https://play.google.com/store/apps/details?id=com.sellam.ae",
+      "stars": "0"
+    }
+  ]
+}
